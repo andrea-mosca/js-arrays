@@ -35,8 +35,11 @@ console.log(teachers);
 // 7. Trova l'indice dell'insegnante 'Lewis' nell'array teachers
 // e salvalo nella variabile lewisIndex
 
-// const lewisIndex = teachers.indexOf('Lewis');//diretto con indexOF
+//diretto con indexOF
+// const lewisIndex = teachers.indexOf('Lewis'); 
 // console.log(lewisIndex);
+
+// con ciclo for
 let lewisIndex;
 const lewisName = 'Lewis';
 
